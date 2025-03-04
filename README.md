@@ -1,7 +1,7 @@
 # Bookfind
 Web application designed for an online bookstore.
 Technologies used:
-- Laravel
+- Laravel (PHP, CSS)
 - Docker
 - Postgres
 
